@@ -49,3 +49,25 @@ hr {
     height: 2px;
     border: none;
 }
+
+@media only screen and (max-width: 480px) {
+    .description--text {
+        font-weight: 400;
+        font-size: 2.5vw;
+    }
+
+    .date--text {
+        font-size: 2.5vw;
+    }
+
+    .location--and--map {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: flex-start;
+    }
+
+    .location {
+        font-size: 15px;
+    }
+}

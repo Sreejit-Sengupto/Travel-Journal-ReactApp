@@ -1,3 +1,10 @@
 Header {
   background-color: red;
 }
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  font-family: 'Inter', sans-serif;
+}

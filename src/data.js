@@ -27,5 +27,15 @@ export const data = [
         endDate: "11 March, 2023",
         description: "Kashi Vishwanath Temple is one of the most famous temple in Varanasi, also known as the Golden temple dedicated to the Lord Shiva. It was constructed in the year 1780 by the Maratha monarch, Maharani Ahilyabai Holkar of the Indore.",
         imageUrl: "https://www.deccanherald.com/sites/dh/files/articleimages/2021/12/13/pti12122021000191a-1-1060275-1639379460.jpg"
+    },
+
+    {
+        title: "Sri Harminder Sahib (Golden Temple)",
+        location: "Amritsar",
+        googleMapsUrl: "https://goo.gl/maps/nk3DiyDmQxQV1g8n8",
+        startDate: "11 April, 2023",
+        endDate: "22 April, 2023",
+        description: "The Golden Temple is a gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism. It is one of the holiest sites in Sikhism, alongside the Gurdwara Darbar Sahib Kartarpur in Kartarpur, and Gurdwara Janam Asthan in Nankana Sahib. ",
+        imageUrl: "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/97000/97955-Golden-Temple.jpg"
     }
 ]

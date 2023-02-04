@@ -15,6 +15,7 @@ function App() {
     <div className="App">
       <Header />
       {card}
+      <footer><small>Created by</small> <span>Sree</span></footer>
     </div>
   );
 }

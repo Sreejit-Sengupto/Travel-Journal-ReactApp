@@ -65,6 +65,7 @@ hr {
         flex-direction: column;
         justify-content: center;
         align-items: flex-start;
+        margin: 10px 0px 10px 0px;
     }
 
     .location {

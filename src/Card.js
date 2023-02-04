@@ -1,4 +1,3 @@
-import react from "react"
 import "./Card.css"
 
 export default function Card(props) {
@@ -7,7 +6,7 @@ export default function Card(props) {
         <div>
             <div className="container">
                 {/* <div className="image--container"><img src={props.item.imageUrl} alt="location" className="location--image"/></div> */}
-                <img src={props.item.imageUrl} alt="location" className="location--image"/>
+                <img src={props.item.imageUrl} alt="location" className="location--image" />
 
                 <div className="description--container">
                     <div className="title">

@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import image from "./image.png"
 import './App.css';
 import Header from "./Header.js"
 import Card from "./Card.js"

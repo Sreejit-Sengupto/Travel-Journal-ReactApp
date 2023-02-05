@@ -37,5 +37,15 @@ export const data = [
         endDate: "22 April, 2023",
         description: "The Golden Temple is a gurdwara located in the city of Amritsar, Punjab, India. It is the preeminent spiritual site of Sikhism. It is one of the holiest sites in Sikhism, alongside the Gurdwara Darbar Sahib Kartarpur in Kartarpur, and Gurdwara Janam Asthan in Nankana Sahib. ",
         imageUrl: "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/97000/97955-Golden-Temple.jpg"
+    },
+
+    {
+        title: "Netaji Bhawan",
+        location: "Kolkata",
+        googleMapsUrl: "https://goo.gl/maps/wkUCCg3BZNnd9azB8",
+        startDate: "23 Jan, 2023",
+        endDate: "02 Feb, 2023",
+        description: `Netaji Bhawan or Netaji Bhavan is a heritage building in Kolkata, West Bengal, maintained as a memorial and research center to the life of the Indian nationalist "Netaji" Subhas Chandra Bose. It is currently the headquarters of Netaji Research Bureau.`,
+        imageUrl: "https://static-ai.asianetnews.com/images/01ewq1n3hshvv6y4xtzakqm2c8/netaji-bhavaan-jpg.jpg"
     }
 ]
